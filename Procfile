@@ -1,0 +1,1 @@
+web: surreal start --bind 0.0.0.0:$PORT
